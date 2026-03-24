@@ -1,0 +1,6 @@
+# Copy this file to .dev.vars and fill in real values for local development.
+# DO NOT commit .dev.vars — it contains secrets.
+
+AIRTABLE_API_KEY=your_airtable_personal_access_token_here
+AIRTABLE_BASE_ID=appXXXXXXXXXXXXXX
+SLACK_WEBHOOK_URL=https://hooks.slack.com/services/XXX/YYY/ZZZ
